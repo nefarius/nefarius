@@ -1,6 +1,6 @@
 <img src="assets/NSS-128x128.png" align="right" />
 
-### Hi there 👋
+# About ✨ Nefarius ✨
 
 <!--
 **nefarius/nefarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
