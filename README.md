@@ -2,6 +2,18 @@
 
 # About ✨ Nefarius ✨
 
+To be filled...
+
+## 📊 Analytics 📊
+
+[![Nefarius's GitHub stats](https://github-readme-stats.vercel.app/api?username=nefarius&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nefarius&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 Awards 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nefarius&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **nefarius/nefarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
