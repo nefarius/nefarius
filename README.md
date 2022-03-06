@@ -24,6 +24,7 @@ To be filled...
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" title="Debian" **alt="Debian" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
 </p>
 
 ## 📊 &nbsp;Analytics
