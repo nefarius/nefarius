@@ -4,6 +4,8 @@
 
 To be filled...
 
+---
+
 ## 🛠️ &nbsp;Languages and Tools
 
 <p>
@@ -26,11 +28,15 @@ To be filled...
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
 </p>
 
-## 📊 &nbsp;Analytics
+---
+
+## 🔥 &nbsp;Statistics
 
 [![Nefarius's GitHub stats](https://github-readme-stats.vercel.app/api?username=nefarius&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nefarius&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## 🏆 &nbsp;Awards
 
