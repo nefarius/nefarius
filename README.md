@@ -2,7 +2,9 @@
 
 # About ✨ Nefarius ✨
 
-To be filled...
+Hello there 👋 welcome to my GitHub profile!
+
+I'm a Software Developer from Austria 🇦🇹 (**not** Australia 🦘)!
 
 ---
 
