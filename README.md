@@ -6,6 +6,12 @@ Hello there 👋 welcome to my GitHub profile!
 
 I'm a Software Developer from Austria 🇦🇹 (**not** Australia 🦘)!
 
+I've started tinkering with code in my late teens, trying to automate some tasks and generally try to understand how programs work. Later in life when beginning my professional career I turned my back on coding and focussed on project management and infrastructure design, support and maintenance of common Microsoft products (Windows, Active Directory, SQL Server, ...) and DevOps topics. Around 2014 I started to get back into programming by taking over a rather large and successful community project and extended my roster of open-source solutions ever since.
+
+Nowadays I am consulting on, designing and developing Windows kernel (and user-mode) drivers for gaming peripherals and other low-level challenges. With every new challenge I extend my portfolio and toolbox, I primarily develop in but am not limited to C and C#. Besides driver shenanigans I also create and maintain backend services and middleware based on .NET Core and ASP.NET Core and I have authored the occasional web application.
+
+Sounds interesting? You can book my services! Head over [to my website](https://nefarius.at/) for more information!
+
 ---
 
 ## 🛠️ &nbsp;Languages and Tools
