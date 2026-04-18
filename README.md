@@ -48,7 +48,7 @@ Sounds interesting? You can book my services! Head over [to my website](https://
 
 ## 🏆 &nbsp;Awards
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nefarius&theme=chalk&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.nefarius.at/?username=nefarius&theme=chalk&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **nefarius/nefarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
