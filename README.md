@@ -40,9 +40,9 @@ Sounds interesting? You can book my services! Head over [to my website](https://
 
 ## 🔥 &nbsp;Statistics
 
-[![Nefarius's GitHub stats](https://github-readme-stats.vercel.app/api?username=nefarius&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Nefarius's GitHub stats](https://github-readme-stats.nefarius.at/api?username=nefarius&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nefarius&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.nefarius.at/api/top-langs/?username=nefarius&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
